@@ -1,7 +1,7 @@
 # SQL-PRACTICE
 SQL queries, arithmetic function exercise
 
-'''sql
+```sql
 create database LuxDev;
 
 
@@ -456,7 +456,7 @@ from books;
 --Set Operators - Union, Union all, Intersect, Except
 --Windows Functions 
 
-'''
+```
 
 
 
